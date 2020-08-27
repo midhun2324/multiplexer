@@ -1,2 +1,4 @@
 welcome hubbell
 good morning
+have a niceday
+welcome to git
